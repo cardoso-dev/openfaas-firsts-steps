@@ -287,9 +287,9 @@ bash create-cluster.sh
 ```
 
 ## Useful related references
-https://blog.alexellis.io/get-started-with-openfaas-and-kind/
-https://mickey.dev/posts/getting-started-with-openfaas/
-https://mcvidanagama.medium.com/set-up-a-multi-node-kubernetes-cluster-locally-using-kind-eafd46dd63e5
-https://kind.sigs.k8s.io/docs/user/local-registry/
-https://docs.docker.com/registry/deploying/
-https://docs.openfaas.com/deployment/troubleshooting
+- https://blog.alexellis.io/get-started-with-openfaas-and-kind/
+- https://mickey.dev/posts/getting-started-with-openfaas/
+- https://mcvidanagama.medium.com/set-up-a-multi-node-kubernetes-cluster-locally-using-kind-eafd46dd63e5
+- https://kind.sigs.k8s.io/docs/user/local-registry/
+- https://docs.docker.com/registry/deploying/
+- https://docs.openfaas.com/deployment/troubleshooting
